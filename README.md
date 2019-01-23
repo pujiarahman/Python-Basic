@@ -2,9 +2,8 @@
 
 Memulai dengan Python
 1. Instalasi Download python from here https://www.python.org/downloads/
-2. Print
-3. Strings
-4. Math
+2. Print dan Strings
+3. Math
 
 
 
