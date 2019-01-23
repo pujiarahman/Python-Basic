@@ -1,4 +1,4 @@
 # Python-Basic
 
-Downolad python from here 
+Download python from here 
 https://www.python.org/downloads/
