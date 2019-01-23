@@ -1,4 +1,4 @@
-# Python-Basic
+# Python-Basic For Beginner
 
 Memulai dengan Python
 1. Instalasi Download python from here https://www.python.org/downloads/
@@ -12,5 +12,10 @@ Variables, Loops dan Statements
 4. if Statements
 5. if Else Statements
 6. if Elif Else Statements
+
+Functions dan Variables
+1. Functions
+2. Funtions Parameter
+3. Global dan LocalVariables
 
 
