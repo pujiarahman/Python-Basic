@@ -18,4 +18,20 @@ Functions dan Variables
 2. Funtions Parameter
 3. Global dan Local Variables
 
+Error Detection
+1. Common Python Errors
+
+Working with Files and Classes
+1. Writing to a File
+2. Appending to a File
+3. Reading From a File
+4. Classes
+
+Intermediate Python
+1. Input and Statistics
+2. Import Syntax
+3. Making Modules
+4. Error Handling - Try and Accept
+5. List Vs Tuples
+6. Dictionaries
 
