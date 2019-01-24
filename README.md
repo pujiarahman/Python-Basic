@@ -16,6 +16,6 @@ Variables, Loops dan Statements
 Functions dan Variables
 1. Functions
 2. Funtions Parameter
-3. Global dan LocalVariables
+3. Global dan Local Variables
 
 
