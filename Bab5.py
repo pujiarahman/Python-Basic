@@ -5,3 +5,6 @@ for x in i:
 
 for a in range(1,10):
     print(a)
+
+    
+ #https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops
