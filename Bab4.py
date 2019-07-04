@@ -12,3 +12,4 @@ while kondisi < 10:
 while True:
     print("Benar Sekali")
     
+#https://docs.python.org/3/tutorial/controlflow.html#for-statements
