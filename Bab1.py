@@ -1,0 +1,7 @@
+print("Belajar")
+print("Belajar Python")
+print("Belajar" + "Python")
+print("1" + "2")
+print(1+2)
+print('i\'am Student')
+print("i\'am Student")
